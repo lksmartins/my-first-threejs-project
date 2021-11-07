@@ -1,0 +1,19 @@
+html, body {
+  background-color: #3c3c3c;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+#root_3d_remedios {
+  display: block;
+}
+
+.buttons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 50px;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
